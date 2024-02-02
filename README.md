@@ -1,5 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
-
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Akhil Talashi
   <h2>I'm a passionate software developer currently on track to earn my Master's in Information Systems from Northeastern University by May '24. Looking ahead, I'm excited to embark on a career in full-time software development roles. Let's connect and discuss how I can contribute to your team.</h2>
 </h1>
