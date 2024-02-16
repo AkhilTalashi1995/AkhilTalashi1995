@@ -16,7 +16,6 @@
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1MrDO9wXNzNZlwqtcJ8tCWwhoAgkd28aWAJyXdYgiFwI/edit?usp=sharing" target="blank"> <strong>Resume</strong> <a>
 
 <h3 align="left">Connect with me:</h3>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="left">
 <a href="https://linkedin.com/in/akhil-talashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-talashi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@akhiltalashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@akhiltalashi" height="30" width="40" /></a>
