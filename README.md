@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Tech and Marketing**
 
-- 📫 How to reach me **akhilimmi@gmail.com**
+- 📫 How to reach me **95akhiltalashi@gmail.com**
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1MrDO9wXNzNZlwqtcJ8tCWwhoAgkd28aWAJyXdYgiFwI/edit?usp=sharing" target="blank"> <strong>Resume</strong> <a>
 
