@@ -12,10 +12,11 @@ From marketing strategies to mastering the latest in software development, my jo
 - **Backend Development:** Node JS, Express JS, MongoDB, MySQL, Oracle Database, RESTful API
 - **Cloud, CI/CD, and others:** AWS, Pulumi, Git Version Control, GitHub Actions, Maven, SQL Developer, UFT, Selenium
 
-## Key Projects 📚
+<! --  ## Key Projects 📚
 - **[Leetify](https://github.com/Vets-Who-Code/vets-who-code-app):** Built a LeetCode clone with 5+ million users from scratch, using Monaco-Editor for coding and ensuring robust backend execution through Node.js streams and Promises for thorough testing
 - **[Rentwheel](https://github.com/Vets-Who-Code/web-curriculum):** Developed Rentwheel, a user-centric web application utilizing Spring Boot and MySQL, revolutionizing the car rental experience for users
-
+-->
+  
 ## Leadership & Advocacy 🌟
 - **Yakjay Mumbai:** Volunteer to empower the Kashmiri community through education initiatives, enhancing access to learning resources and opportunities.
 - **Team Leadership:** Led teams at Uplers and Envigo Ltd, driving projects to successful completion by fostering collaboration, innovation, and high standards of excellence.
