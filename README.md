@@ -1,4 +1,4 @@
-👋 Hi, I'm Akhil Talashi! I'm a versatile full-stack developer with a flair for frontend development, and a recent MSIS graduate from Northeastern University. My diverse experience, spanning marketing and software engineering, equips me with a unique perspective that blends business insights with technical expertise.
+👋 Hi, I'm Akhil Talashi! I'm a versatile full-stack developer with a flair for frontend development, and a recent MSIS graduate from Northeastern University.
 
 ## About Me
 Imagine a developer who understands both the code and the customer. That’s me! With a solid foundation in marketing and a robust career in software engineering, I bring a rare blend of skills that bridges the gap between user needs and technical innovation. This dual expertise makes me a valuable asset in any team, allowing me to craft solutions that resonate with users and drive business success.
