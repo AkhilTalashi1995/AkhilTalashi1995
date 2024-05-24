@@ -1,6 +1,7 @@
 👋 Hi, I'm Akhil Talashi! I'm a versatile full-stack developer with a flair for frontend development, and a recent MSIS graduate from Northeastern University.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhiltalashi1995&label=Profile%20views&color=0e75b6&style=flat" alt="akhiltalashi1995" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=akhiltalashi1995&label=Profile%20views&color=0e75b6&style=flat" alt="akhiltalashi1995" /> </p>
+
 ## About Me
 Imagine a developer who understands both the code and the customer. That’s me! With a solid foundation in marketing and a robust career in software engineering, I bring a rare blend of skills that bridges the gap between user needs and technical innovation. This dual expertise makes me a valuable asset in any team, allowing me to craft solutions that resonate with users and drive business success.
 
