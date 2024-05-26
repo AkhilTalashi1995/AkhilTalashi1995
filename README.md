@@ -7,7 +7,7 @@ Imagine a developer who understands both the code and the customer. That’s me!
 ## The Journey
 From marketing strategies to mastering the latest in software development, my journey has been driven by a passion for learning and a commitment to excellence. My first two years in marketing taught me how to think like a user, understand their needs, and deliver compelling experiences. Transitioning into software engineering, I leveraged these insights to build intuitive, high-performance applications.
 
-## Technical Skills 🛠️
+## Technical Skills 💻
 - **Languages:** Java, JavaScript, TypeScript, SQL (PL/SQL), Shell Scripting, Python
 - **Web Development:** HTML, CSS, SCSS, React, Redux, Material-UI, Spring Boot, Jakarta EE, Hibernate
 - **Backend Development:** Node JS, Express JS, MongoDB, MySQL, Oracle Database, RESTful API
@@ -26,8 +26,8 @@ From marketing strategies to mastering the latest in software development, my jo
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills 📈
 
 ## Connect with Me 📬
-- 📫 [Email](mailto:95akhiltalashi@gmail.com)
-- ![image](https://github.com/AkhilTalashi1995/AkhilTalashi1995/assets/114716350/87ab34e2-df18-4ef3-b2b6-d25129c032f2) [LinkedIn](https://linkedin.com/in/akhil-talashi)
+- 📧 [Email](mailto:95akhiltalashi@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/akhil-talashi)
 
 I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
 
