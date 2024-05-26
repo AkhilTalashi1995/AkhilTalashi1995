@@ -27,7 +27,7 @@ From marketing strategies to mastering the latest in software development, my jo
 
 ## Connect with Me 📬
 - 📫 [Email](mailto:95akhiltalashi@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/akhil-talashi)
+- ![image](https://github.com/AkhilTalashi1995/AkhilTalashi1995/assets/114716350/87ab34e2-df18-4ef3-b2b6-d25129c032f2) [LinkedIn](https://linkedin.com/in/akhil-talashi)
 
 I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
 
