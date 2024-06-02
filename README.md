@@ -15,9 +15,12 @@ From marketing strategies to mastering the latest in software development, my jo
 
 ## Key Projects 💎
 - **[Portfolio](https://www.akhiltalashi.dev/):** This portfolio website showcases my work, skills, and personality beyond the confines of a traditional resume.
-- **[Leetify](https://github.com/AkhilTalashi1995/LEETIFY):** An online coding platform tailored for software engineers gearing up for interviews. Great for boosting problem-solving skills and prepping for tech interviews!
-- **[Rentwheel](https://github.com/AkhilTalashi1995/Rentwheel):** A user-friendly web platform simplifying car rentals. Browse, book, and pay securely for vehicles with ease. Powered by Spring Boot and MySQL for efficiency and security.
-- **[Thrift Buddy](https://www.figma.com/proto/4UcQF4vUClvu2RiTJj931i/ThriftBuddy?node-id=303-2774&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A2774&show-proto-sidebar=1&t=HCgOGOoOIYAbw1mt-9):** A student-exclusive marketplace for buying, selling, and responsibly disposing of second-hand goods on campus. We prioritize sustainability, community, and responsible consumption for an engaging digital experience.
+  
+- **[Leetify](https://github.com/AkhilTalashi1995/LEETIFY):** An online coding platform tailored for software engineers gearing up for interviews.
+  
+- **[Rentwheel](https://github.com/AkhilTalashi1995/Rentwheel):** A Spring Boot powered user-friendly web platform simplifying car rentals. Browse, book, and pay securely for vehicles with ease.
+  
+- **[Thrift Buddy](https://www.figma.com/proto/4UcQF4vUClvu2RiTJj931i/ThriftBuddy?node-id=303-2774&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A2774&show-proto-sidebar=1&t=HCgOGOoOIYAbw1mt-9):** A student-exclusive marketplace for buying, selling, and responsibly disposing of second-hand goods on campus. (sustainability)
   
 ## Leadership & Advocacy 🌟
 - **Yakjay Mumbai:** Volunteer to empower the Kashmiri community through education initiatives, enhancing access to learning resources and opportunities
