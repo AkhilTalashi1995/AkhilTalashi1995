@@ -17,6 +17,7 @@ From marketing strategies to mastering the latest in software development, my jo
 - **[Portfolio](https://www.akhiltalashi.dev/):** This portfolio website showcases my work, skills, and personality beyond the confines of a traditional resume.
 - **[Leetify](https://github.com/AkhilTalashi1995/LEETIFY):** An online coding platform tailored for software engineers gearing up for interviews.
 - **[Rentwheel](https://github.com/AkhilTalashi1995/Rentwheel):** A Spring Boot powered user-friendly web platform simplifying car rentals.
+- **[Cloud-Native-Application](https://github.com/AkhilTalashi1995/Cloud-Native-Application):** This project leverages AWS alongside Node.js and Express, creating a cloud-native web application designed for optimal performance and scalability.
 - **[Thrift Buddy](https://www.figma.com/proto/4UcQF4vUClvu2RiTJj931i/ThriftBuddy?node-id=303-2774&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A2774&show-proto-sidebar=1&t=HCgOGOoOIYAbw1mt-9):** A student-exclusive marketplace for buying, selling, and responsibly disposing of second-hand goods online.
   
 ## Leadership & Advocacy 🌟
