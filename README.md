@@ -11,7 +11,7 @@ From marketing strategies to mastering the latest in software development, my jo
 - **Languages:** Java, JavaScript, TypeScript, SQL (PL/SQL), Shell Scripting, Python
 - **Web Development:** HTML, CSS, SCSS, React, Redux, Material-UI, Spring Boot, Jakarta EE, Hibernate
 - **Backend Development:** Node JS, Express JS, MongoDB, MySQL, Oracle Database, RESTful API
-- **Cloud, CI/CD, and others:** AWS, Pulumi, Git Version Control, GitHub Actions, Maven, SQL Developer, UFT, Selenium
+- **Cloud, CI/CD, and others:** AWS, Docker, Pulumi, Git Version Control, GitHub Actions, Maven, SQL Developer, UFT, Selenium
 
 ## Key Projects 💎
 - **[Portfolio](https://www.akhiltalashi.dev/):** This portfolio website showcases my work, skills, and personality beyond the confines of a traditional resume.
