@@ -31,9 +31,8 @@ From marketing strategies to mastering the latest in software development, my jo
 
 ## Connect with Me 📬
 - 📧 [Email](mailto:95akhiltalashi@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/akhil-talashi)
-              
-![LinkedIn Badge](https://link-to-your-image.jpg)
+
+[![Email](https://img.shields.io/badge/Email-95akhiltalashi%40gmail.com-red)](mailto:95akhiltalashi@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20Talashi-blue)](https://www.linkedin.com/in/akhil-talashi)
 
