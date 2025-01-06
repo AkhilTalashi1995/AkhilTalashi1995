@@ -57,11 +57,11 @@ From marketing strategies to mastering the latest in software development, my jo
 
 ## Key Projects 💎
 
-- **[Portfolio](https://www.akhiltalashi.dev/):** ![Portfolio](https://img.shields.io/badge/Website-Portfolio-0A66C2?style=for-the-badge&logo=web&logoColor=white) This portfolio website showcases my work, skills, and personality beyond the confines of a traditional resume.
-- **[Leetify](https://leetify.vercel.app/):** ![Leetify](https://img.shields.io/badge/Platform-Leetify-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white) An online coding platform tailored for software engineers gearing up for interviews.
-- **[Rentwheel](https://github.com/AkhilTalashi1995/Rentwheel):** ![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) A Spring Boot powered user-friendly web platform simplifying car rentals.
-- **[Cloud-Native-Application](https://github.com/AkhilTalashi1995/Cloud-Native-Application):** ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) This project leverages AWS alongside Node.js and Express, creating a cloud-native web application designed for optimal performance and scalability.
-- **[Thrift Buddy](https://www.figma.com/proto/4UcQF4vUClvu2RiTJj931i/ThriftBuddy?node-id=303-2774&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A2774&show-proto-sidebar=1&t=HCgOGOoOIYAbw1mt-9):** ![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) A student-exclusive marketplace for buying, selling, and responsibly disposing of second-hand goods online.
+- **[Portfolio](https://www.akhiltalashi.dev/):** ![Portfolio](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-website-website-flat-flat-juicy-fish.png) This portfolio website showcases my work, skills, and personality beyond the confines of a traditional resume.
+- **[Leetify](https://leetify.vercel.app/):** ![LeetCode](https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/000000/external-leetcode-programming-app-logo-tal-revivo-color-tal-revivo.png) An online coding platform tailored for software engineers gearing up for interviews.
+- **[Rentwheel](https://github.com/AkhilTalashi1995/Rentwheel):** ![Spring Boot](https://img.icons8.com/color/64/000000/spring-logo.png) A Spring Boot powered user-friendly web platform simplifying car rentals.
+- **[Cloud-Native-Application](https://github.com/AkhilTalashi1995/Cloud-Native-Application):** ![AWS](https://img.icons8.com/color/64/000000/amazon-web-services.png) ![Node.js](https://img.icons8.com/color/64/000000/nodejs.png) This project leverages AWS alongside Node.js and Express, creating a cloud-native web application designed for optimal performance and scalability.
+- **[Thrift Buddy](https://www.figma.com/proto/4UcQF4vUClvu2RiTJj931i/ThriftBuddy?node-id=303-2774&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A2774&show-proto-sidebar=1&t=HCgOGOoOIYAbw1mt-9):** ![Figma](https://img.icons8.com/color/64/000000/figma.png) A student-exclusive marketplace for buying, selling, and responsibly disposing of second-hand goods online.
 
 
 ## Connect with Me 📬
