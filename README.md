@@ -55,10 +55,9 @@ Software Engineer with 3+ years of experience in Java, Spring Boot, React, and f
 
 ## Connect with Me 📬
 
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
+
 [![Email](https://img.shields.io/badge/Email-95akhiltalashi%40gmail.com-red)](mailto:95akhiltalashi@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20Talashi-blue)](https://www.linkedin.com/in/akhil-talashi)
-
-I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
-
 
