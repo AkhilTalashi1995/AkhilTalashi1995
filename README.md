@@ -32,9 +32,10 @@ From marketing strategies to mastering the latest in software development, my jo
 ## Connect with Me 📬
 - 📧 [Email](mailto:95akhiltalashi@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/akhil-talashi)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="akhil-talashi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/akhil-talashi?trk=profile-badge">Akhil Talashi</a></div>
               
+![LinkedIn Badge](https://link-to-your-image.jpg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20Talashi-blue)](https://www.linkedin.com/in/akhil-talashi)
 
 I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
 
