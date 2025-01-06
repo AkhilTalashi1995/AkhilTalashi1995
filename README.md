@@ -65,7 +65,6 @@ From marketing strategies to mastering the latest in software development, my jo
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills 📈
 
 ## Connect with Me 📬
-- 📧 [Email](mailto:95akhiltalashi@gmail.com)
 
 [![Email](https://img.shields.io/badge/Email-95akhiltalashi%40gmail.com-red)](mailto:95akhiltalashi@gmail.com)
 
