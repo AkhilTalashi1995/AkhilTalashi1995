@@ -2,10 +2,7 @@
 👋 Hi, I'm Akhil Talashi, a software engineer who enjoys turning creative ideas into elegant code.
 
 ## About Me
-Imagine a developer who understands both the code and the customer. That’s me! With a background in marketing and a career in software engineering, I bridge user needs with technical innovation, crafting solutions that drive business success.
-
-## The Journey 👣
-From marketing strategies to mastering the latest in software development, my journey has been driven by a passion for learning and a commitment to excellence. My first two years in marketing taught me how to think like a user, understand their needs, and deliver compelling experiences. Transitioning into software engineering, I leveraged these insights to build intuitive, high-performance applications.
+Software Engineer with 3+ years of experience in Java, Spring Boot, React, and full-stack development, delivering scalable, user-centric solutions and driving performance improvements. Proficient in crafting secure RESTful APIs, optimizing application architectures, and enhancing UI/UX for seamless user experiences.
 
 ## Technical Skills 💻
 
