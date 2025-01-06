@@ -8,10 +8,6 @@ Imagine a developer who understands both the code and the customer. That’s me!
 From marketing strategies to mastering the latest in software development, my journey has been driven by a passion for learning and a commitment to excellence. My first two years in marketing taught me how to think like a user, understand their needs, and deliver compelling experiences. Transitioning into software engineering, I leveraged these insights to build intuitive, high-performance applications.
 
 ## Technical Skills 💻
-- **Languages:** Java, JavaScript, TypeScript, SQL (PL/SQL), Shell Scripting, Python
-- **Web Development:** HTML, CSS, SCSS, React, Redux, Material-UI, Spring Boot, Jakarta EE, Hibernate
-- **Backend Development:** Node JS, Express JS, MongoDB, MySQL, Oracle Database, RESTful API
-- **Cloud, CI/CD, and others:** AWS, Docker, Pulumi, Git Version Control, GitHub Actions, Maven, SQL Developer, UFT, Selenium
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
