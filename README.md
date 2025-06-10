@@ -1,8 +1,25 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhiltalashi1995&label=Profile%20views&color=0e75b6&style=flat" alt="akhiltalashi1995" /> </p>
-👋 Hi, I'm Akhil Talashi, a software engineer who enjoys turning creative ideas into elegant code.
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=akhiltalashi1995&label=Profile%20views&color=0e75b6&style=flat" alt="akhiltalashi1995" /> 
+</p>
 
-## About Me
-Software Engineer with 3+ years of experience in Java, Spring Boot, React, and full-stack development, delivering scalable, user-centric solutions and driving performance improvements. Proficient in crafting secure RESTful APIs, optimizing application architectures, and enhancing UI/UX for seamless user experiences.
+
+<h2 align="center"> 👋 Hi, I'm Akhil Talashi </h2>
+
+<p align="center">
+  <b>Builder at heart. Problem-solver by nature.</b>
+</p>
+
+---
+
+A Full Stack Engineer passionate about transforming bold ideas into real-world solutions. With 3+ years in web and mobile development, I blend hands-on coding with big-picture thinking—whether architecting scalable cloud platforms, crafting intuitive user experiences, or integrating cutting-edge AI.
+
+From streamlining operations for enterprises to launching AI-powered consumer apps, my projects always share one thing: impact. I thrive in fast-paced teams, love breaking down complex problems, and never shy away from a challenge.
+
+My toolkit spans Java, JavaScript, TypeScript, and Python—brought to life with frameworks like Spring Boot, Hibernate, React (web and native), Redux, Next.js, Node.js, Express.js, and Tailwind CSS. I build, deploy, and scale with AWS, Docker, Kubernetes, Jenkins, and CI/CD pipelines, and work fluently with databases like MongoDB, PostgreSQL, and MySQL. I’m a strong believer in clean code, TDD, and agile delivery, always leveraging tools like Jest, JUnit, Cypress, and Postman to ship robust, production-ready software.
+
+Beyond the code, I believe great products are built by great teams. I champion clean architecture, collaborative culture, and rapid delivery.
+
+---
 
 ## Technical Skills 💻
 
@@ -47,7 +64,7 @@ Software Engineer with 3+ years of experience in Java, Spring Boot, React, and f
 
 ## Connect with Me 📬
 
-I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
+I’m currently open to new roles and opportunities—feel free to reach out if you’re looking for someone who loves building impactful software.
 
 [![Email](https://img.shields.io/badge/Email-95akhiltalashi%40gmail.com-red)](mailto:95akhiltalashi@gmail.com)
 
