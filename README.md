@@ -83,13 +83,3 @@ Northeastern University, Boston, MA (Sep 2022 – Apr 2024)
 📅 **Schedule 30-min call:** [calendly.com/95akhiltalashi/30min](https://calendly.com/95akhiltalashi/30min)
 
 **Response time:** Typically within 24 hours.
-
----
-
-## 📊 Stats
-
-- **GitHub Repos:** 26 | **Public Projects:** 5+ shipped products
-- **Contributions:** Active contributor across full-stack and AI projects
-- **Community:** Former Teaching Assistant (mentored 50+ students on full-stack development)
-
----
