@@ -1,9 +1,9 @@
-# 🤖 Akhil Talashi
+# Akhil Talashi
 **Full-Stack + AI Systems Engineer**
 
 Building production-ready AI systems: LLM applications, RAG pipelines, and intelligent workflows that solve real problems at scale.
 
-> 3+ years shipping full-stack systems | 1.5+ years focused on production AI | Pragmatic builder, not a toy-demo engineer.
+> 3+ years shipping full-stack systems | 1.5+ years focused on production AI
 
 ---
 
@@ -20,34 +20,6 @@ Building production-ready AI systems: LLM applications, RAG pipelines, and intel
 - User-centric frontends (React, Next.js, TypeScript)
 - Cloud infrastructure & DevOps (AWS, Docker, Kubernetes, CI/CD)
 - Database design and optimization (PostgreSQL, MongoDB, Redis)
-
-**Why This Matters**
-I don't separate "AI engineering" from "full-stack engineering"—they're one discipline. Real AI systems need both. I build the entire stack: APIs, data pipelines, inference layers, and interfaces that users actually use.
-
----
-
-## 💼 Work Experience
-
-**Software Engineer @ Softnut Inc** (Jun 2025 – Present)  
-*Duluth, GA | Remote*
-- Building production AI systems with focus on LLM integrations, RAG architectures, and optimizing for latency/cost
-- Tech: Python, FastAPI, LangChain, Retrieval-Augmented Generation (RAG), AWS
-
-**Software Engineer @ Humanitarians AI** (Nov 2024 – Apr 2025)  
-*Boston, MA | Contract*
-- Developed AI-powered cross-platform applications with full-stack engineering excellence
-- Shipped features across frontend (React/Angular) and backend (Node.js, Python)
-- Tech: React, Angular, Node.js, TypeScript, Cypress, Docker
-
-**Software Engineer @ Bear Brown and Company** (Jul 2024 – Nov 2024)  
-*Boston, MA | Contract*
-- Contributed to robust CI/CD pipelines and automated testing infrastructure
-- Tech: TypeScript, Cypress, Jenkins, GitHub Actions
-
-**Graduate Teaching Assistant @ Northeastern University** (Sep 2023 – Apr 2024)  
-*Web Design & User Experience Engineering (INFO 6150)*
-- Mentored 50+ students on full-stack development and UX principles
-- Designed assignments and evaluated projects on scalability and user-centric design
 
 ---
 
@@ -94,136 +66,10 @@ I don't separate "AI engineering" from "full-stack engineering"—they're one di
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 **Leetify** – Full-Stack SaaS for Interview Prep  
-**Status:** Production | **Users:** 100K+ | **Demo Accounts:** Yes  
-
-Live online coding platform with premium content, payment processing, and analytics. **Proof you can ship end-to-end features.**
-
-**What It Shows:**
-- Full-stack architecture (React frontend + Node.js backend)
-- Real payment integration (Stripe)
-- Admin analytics dashboard
-- Responsive, production-grade UI
-- Clean deployment (Vercel)
-
-**Tech:** React, Node.js, Express, MongoDB, Stripe, Redux, Tailwind, AWS EC2  
-🔗 [Live Demo](https://leetify.vercel.app/) | [GitHub Repo](https://github.com/AkhilTalashi1995/LEETIFY)
-
----
-
-### 🚗 **Rentwheel** – Spring Boot Car Rental Platform  
-**Status:** Production | **Purpose:** Full-Stack Backend Showcase  
-
-User-friendly car rental system demonstrating Java backend expertise, database design, and MVC architecture.
-
-**What It Shows:**
-- Enterprise-grade Spring Boot architecture
-- Clean database design (MySQL)
-- MVC pattern implementation
-- Real-world feature complexity
-
-**Tech:** Java, Spring Boot, MySQL, Thymeleaf, JUnit  
-🔗 [GitHub Repo](https://github.com/AkhilTalashi1995/Rentwheel)
-
----
-
-### ☁️ **Cloud-Native-Application** – AWS Scalability  
-**Status:** Production | **Purpose:** Infrastructure & DevOps Showcase  
-
-Cloud-native web application leveraging AWS services alongside Node.js for optimal performance and scalability.
-
-**What It Shows:**
-- AWS cloud architecture decisions
-- Scalable backend design
-- CI/CD pipeline integration
-- DevOps best practices
-
-**Tech:** Node.js, Express, AWS (EC2, S3, Lambda), Docker, GitHub Actions  
-🔗 [GitHub Repo](https://github.com/AkhilTalashi1995/Cloud-Native-Application)
-
----
-
-### 🛍️ **ThriftBuddy** – UX/Design Showcase  
-**Status:** Design Prototype | **Purpose:** User-Centric Design  
-
-Student-exclusive sustainable marketplace prototype. Demonstrates UX research, competitive analysis, and design thinking.
-
-**What It Shows:**
-- UX research & persona development
-- Figma prototyping & iteration
-- Design-driven problem-solving
-- Collaborative design methodology
-
-**Tech:** Figma, UX Research, Competitive Analysis, Moqups  
-🔗 [Figma Prototype](https://www.figma.com/proto/4UcQF4vUClvu2RiTJj931i/ThriftBuddy?node-id=303-2774&scaling=scale-down)
-
----
-
-### 💼 **Portfolio Site** – Personal Brand  
-**Status:** Live | **Purpose:** Professional Identity  
-
-Next-generation portfolio website. Showcases work, skills, and personality beyond traditional resumes.
-
-**What It Shows:**
-- Modern web design
-- Technical writing & communication
-- Professional brand positioning
-- Full-stack frontend work
-
-**Tech:** React/Next.js, Tailwind CSS, Responsive Design  
-🔗 [Visit Live](https://www.akhiltalashi.dev/)
-
----
-
-## 📈 What Hiring Managers See
-
-**In 10 Seconds:**
-- "AI systems engineer" who can code full-stack
-- Recent, relevant AI work (Softnut Inc, Humanitarians AI)
-- Shipping production systems, not toy demos
-
-**In 30 Seconds:**
-- Shipped Leetify (100K+ users = real impact)
-- Built with modern tech (React, Node.js, FastAPI, AWS)
-- Strong fundamentals (testing, DevOps, databases)
-- Pragmatic builder (clean code, TDD, production-ready)
-
-**In 2 Minutes:**
-- 3+ years experience across full-stack & cloud
-- 1.5+ years focused on production AI systems
-- Can own features end-to-end: backend → inference → frontend
-- Values collaboration, shipping fast, and solving real problems
-
----
-
 ## 🎓 Education
 
 **Master of Science in Information Systems**  
 Northeastern University, Boston, MA (Sep 2022 – Apr 2024)
-
-**Bachelor's Degree in Information Technology**  
-Mumbai University, Mumbai, India (Jul 2013 – May 2017)
-
----
-
-## 💡 Philosophy & Approach
-
-**Pragmatic AI Engineering**
-- Shipping beats perfection. Real user feedback > theoretical optimization.
-- Clean code + testing = systems that scale and don't break.
-- Full-stack ownership: I own my features from database to UI.
-
-**Production First**
-- Latency, cost, and maintainability matter. Every design decision has tradeoffs.
-- "Works in my notebook" doesn't count. Systems must work at scale.
-- Monitoring and observability are non-negotiable.
-
-**Team > Solo**
-- Great products are built by great teams. I champion collaboration and clarity.
-- Mentoring & knowledge sharing are part of engineering excellence.
-- Communication skills are as important as coding skills.
 
 ---
 
@@ -247,11 +93,3 @@ Mumbai University, Mumbai, India (Jul 2013 – May 2017)
 - **Community:** Former Teaching Assistant (mentored 50+ students on full-stack development)
 
 ---
-
-<div align="center">
-
-### "Pragmatic. Production-ready. Shipping AI systems that solve real problems."
-
-Built by someone who values **shipping** over perfection and **teams** over solo genius.
-
-</div>
