@@ -1,71 +1,257 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=akhiltalashi1995&label=Profile%20views&color=0e75b6&style=flat" alt="akhiltalashi1995" /> 
-</p>
+# 🤖 Akhil Talashi
+**Full-Stack + AI Systems Engineer**
 
+Building production-ready AI systems: LLM applications, RAG pipelines, and intelligent workflows that solve real problems at scale.
 
-<h2 align="center"> 👋 Hi, I'm Akhil Talashi </h2>
-
-<p align="center">
-  <b>Builder at heart. Problem-solver by nature.</b>
-</p>
+> 3+ years shipping full-stack systems | 1.5+ years focused on production AI | Pragmatic builder, not a toy-demo engineer.
 
 ---
 
-A Full Stack Engineer passionate about transforming bold ideas into real-world solutions. With 3+ years in web and mobile development, I blend hands-on coding with big-picture thinking—whether architecting scalable cloud platforms, crafting intuitive user experiences, or integrating cutting-edge AI.
+## 🎯 What I Build
 
-From streamlining operations for enterprises to launching AI-powered consumer apps, my projects always share one thing: impact. I thrive in fast-paced teams, love breaking down complex problems, and never shy away from a challenge.
+**AI-First Systems**
+- LLM-powered applications & AI assistants (OpenAI, Anthropic, Hugging Face)
+- Retrieval-Augmented Generation (RAG) with semantic search and vector databases
+- End-to-end intelligent workflows: data → retrieval → inference → user interface
+- Clean, maintainable production APIs (FastAPI, Python)
 
-My toolkit spans Java, JavaScript, TypeScript, and Python—brought to life with frameworks like Spring Boot, Hibernate, React (web and native), Redux, Next.js, Node.js, Express.js, and Tailwind CSS. I build, deploy, and scale with AWS, Docker, Kubernetes, Jenkins, and CI/CD pipelines, and work fluently with databases like MongoDB, PostgreSQL, and MySQL. I’m a strong believer in clean code, TDD, and agile delivery, always leveraging tools like Jest, JUnit, Cypress, and Postman to ship robust, production-ready software.
+**Full-Stack Engineering**
+- Scalable backend systems (Node.js, Python, Spring Boot, microservices)
+- User-centric frontends (React, Next.js, TypeScript)
+- Cloud infrastructure & DevOps (AWS, Docker, Kubernetes, CI/CD)
+- Database design and optimization (PostgreSQL, MongoDB, Redis)
 
-Beyond the code, I believe great products are built by great teams. I champion clean architecture, collaborative culture, and rapid delivery.
+**Why This Matters**
+I don't separate "AI engineering" from "full-stack engineering"—they're one discipline. Real AI systems need both. I build the entire stack: APIs, data pipelines, inference layers, and interfaces that users actually use.
 
 ---
 
-## Technical Skills 💻
+## 💼 Work Experience
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-0088CC?style=for-the-badge&logo=jakartaee&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-512BD4?style=for-the-badge&logo=pulumi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![SQL Developer](https://img.shields.io/badge/SQL_Developer-0081CB?style=for-the-badge&logo=oracle&logoColor=white)
-![UFT](https://img.shields.io/badge/UFT-6DB33F?style=for-the-badge&logo=appium&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+**Software Engineer @ Softnut Inc** (Jun 2025 – Present)  
+*Duluth, GA | Remote*
+- Building production AI systems with focus on LLM integrations, RAG architectures, and optimizing for latency/cost
+- Tech: Python, FastAPI, LangChain, Retrieval-Augmented Generation (RAG), AWS
 
-## Key Projects 💎
-- **[Portfolio](https://www.akhiltalashi.dev/):** This portfolio website showcases my work, skills, and personality beyond the confines of a traditional resume.
-- **[Leetify](https://leetify.vercel.app/):** An online coding platform tailored for software engineers gearing up for interviews.
-- **[Rentwheel](https://github.com/AkhilTalashi1995/Rentwheel):** A Spring Boot powered user-friendly web platform simplifying car rentals.
-- **[Cloud-Native-Application](https://github.com/AkhilTalashi1995/Cloud-Native-Application):** This project leverages AWS alongside Node.js and Express, creating a cloud-native web application designed for optimal performance and scalability.
-- **[Thrift Buddy](https://www.figma.com/proto/4UcQF4vUClvu2RiTJj931i/ThriftBuddy?node-id=303-2774&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A2774&show-proto-sidebar=1&t=HCgOGOoOIYAbw1mt-9):** A student-exclusive marketplace for buying, selling, and responsibly disposing of second-hand goods online.
+**Software Engineer @ Humanitarians AI** (Nov 2024 – Apr 2025)  
+*Boston, MA | Contract*
+- Developed AI-powered cross-platform applications with full-stack engineering excellence
+- Shipped features across frontend (React/Angular) and backend (Node.js, Python)
+- Tech: React, Angular, Node.js, TypeScript, Cypress, Docker
 
+**Software Engineer @ Bear Brown and Company** (Jul 2024 – Nov 2024)  
+*Boston, MA | Contract*
+- Contributed to robust CI/CD pipelines and automated testing infrastructure
+- Tech: TypeScript, Cypress, Jenkins, GitHub Actions
 
-## Connect with Me 📬
+**Graduate Teaching Assistant @ Northeastern University** (Sep 2023 – Apr 2024)  
+*Web Design & User Experience Engineering (INFO 6150)*
+- Mentored 50+ students on full-stack development and UX principles
+- Designed assignments and evaluated projects on scalability and user-centric design
 
-I’m currently open to new roles and opportunities—feel free to reach out if you’re looking for someone who loves building impactful software.
+---
 
-[![Email](https://img.shields.io/badge/Email-95akhiltalashi%40gmail.com-red)](mailto:95akhiltalashi@gmail.com)
+## 🛠️ Core Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20Talashi-blue)](https://www.linkedin.com/in/akhil-talashi)
+**AI & Machine Learning** (Primary Focus)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1F77E6?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind%20CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Infrastructure & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Testing & Tools**  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 **Leetify** – Full-Stack SaaS for Interview Prep  
+**Status:** Production | **Users:** 100K+ | **Demo Accounts:** Yes  
+
+Live online coding platform with premium content, payment processing, and analytics. **Proof you can ship end-to-end features.**
+
+**What It Shows:**
+- Full-stack architecture (React frontend + Node.js backend)
+- Real payment integration (Stripe)
+- Admin analytics dashboard
+- Responsive, production-grade UI
+- Clean deployment (Vercel)
+
+**Tech:** React, Node.js, Express, MongoDB, Stripe, Redux, Tailwind, AWS EC2  
+🔗 [Live Demo](https://leetify.vercel.app/) | [GitHub Repo](https://github.com/AkhilTalashi1995/LEETIFY)
+
+---
+
+### 🚗 **Rentwheel** – Spring Boot Car Rental Platform  
+**Status:** Production | **Purpose:** Full-Stack Backend Showcase  
+
+User-friendly car rental system demonstrating Java backend expertise, database design, and MVC architecture.
+
+**What It Shows:**
+- Enterprise-grade Spring Boot architecture
+- Clean database design (MySQL)
+- MVC pattern implementation
+- Real-world feature complexity
+
+**Tech:** Java, Spring Boot, MySQL, Thymeleaf, JUnit  
+🔗 [GitHub Repo](https://github.com/AkhilTalashi1995/Rentwheel)
+
+---
+
+### ☁️ **Cloud-Native-Application** – AWS Scalability  
+**Status:** Production | **Purpose:** Infrastructure & DevOps Showcase  
+
+Cloud-native web application leveraging AWS services alongside Node.js for optimal performance and scalability.
+
+**What It Shows:**
+- AWS cloud architecture decisions
+- Scalable backend design
+- CI/CD pipeline integration
+- DevOps best practices
+
+**Tech:** Node.js, Express, AWS (EC2, S3, Lambda), Docker, GitHub Actions  
+🔗 [GitHub Repo](https://github.com/AkhilTalashi1995/Cloud-Native-Application)
+
+---
+
+### 🛍️ **ThriftBuddy** – UX/Design Showcase  
+**Status:** Design Prototype | **Purpose:** User-Centric Design  
+
+Student-exclusive sustainable marketplace prototype. Demonstrates UX research, competitive analysis, and design thinking.
+
+**What It Shows:**
+- UX research & persona development
+- Figma prototyping & iteration
+- Design-driven problem-solving
+- Collaborative design methodology
+
+**Tech:** Figma, UX Research, Competitive Analysis, Moqups  
+🔗 [Figma Prototype](https://www.figma.com/proto/4UcQF4vUClvu2RiTJj931i/ThriftBuddy?node-id=303-2774&scaling=scale-down)
+
+---
+
+### 💼 **Portfolio Site** – Personal Brand  
+**Status:** Live | **Purpose:** Professional Identity  
+
+Next-generation portfolio website. Showcases work, skills, and personality beyond traditional resumes.
+
+**What It Shows:**
+- Modern web design
+- Technical writing & communication
+- Professional brand positioning
+- Full-stack frontend work
+
+**Tech:** React/Next.js, Tailwind CSS, Responsive Design  
+🔗 [Visit Live](https://www.akhiltalashi.dev/)
+
+---
+
+## 📈 What Hiring Managers See
+
+**In 10 Seconds:**
+- "AI systems engineer" who can code full-stack
+- Recent, relevant AI work (Softnut Inc, Humanitarians AI)
+- Shipping production systems, not toy demos
+
+**In 30 Seconds:**
+- Shipped Leetify (100K+ users = real impact)
+- Built with modern tech (React, Node.js, FastAPI, AWS)
+- Strong fundamentals (testing, DevOps, databases)
+- Pragmatic builder (clean code, TDD, production-ready)
+
+**In 2 Minutes:**
+- 3+ years experience across full-stack & cloud
+- 1.5+ years focused on production AI systems
+- Can own features end-to-end: backend → inference → frontend
+- Values collaboration, shipping fast, and solving real problems
+
+---
+
+## 🎓 Education
+
+**Master of Science in Information Systems**  
+Northeastern University, Boston, MA (Sep 2022 – Apr 2024)
+
+**Bachelor's Degree in Information Technology**  
+Mumbai University, Mumbai, India (Jul 2013 – May 2017)
+
+---
+
+## 💡 Philosophy & Approach
+
+**Pragmatic AI Engineering**
+- Shipping beats perfection. Real user feedback > theoretical optimization.
+- Clean code + testing = systems that scale and don't break.
+- Full-stack ownership: I own my features from database to UI.
+
+**Production First**
+- Latency, cost, and maintainability matter. Every design decision has tradeoffs.
+- "Works in my notebook" doesn't count. Systems must work at scale.
+- Monitoring and observability are non-negotiable.
+
+**Team > Solo**
+- Great products are built by great teams. I champion collaboration and clarity.
+- Mentoring & knowledge sharing are part of engineering excellence.
+- Communication skills are as important as coding skills.
+
+---
+
+## 🔗 Let's Connect
+
+**Looking for:** Full-time roles in Full-Stack + AI Engineering, LLM-powered products, and intelligent system design.
+
+📧 **Email:** [95akhiltalashi@gmail.com](mailto:95akhiltalashi@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/akhil-talashi](https://www.linkedin.com/in/akhil-talashi/)  
+🌐 **Portfolio:** [akhiltalashi.dev](https://www.akhiltalashi.dev/)  
+📅 **Schedule 30-min call:** [calendly.com/95akhiltalashi/30min](https://calendly.com/95akhiltalashi/30min)
+
+**Response time:** Typically within 24 hours.
+
+---
+
+## 📊 Stats
+
+- **GitHub Repos:** 26 | **Public Projects:** 5+ shipped products
+- **Contributions:** Active contributor across full-stack and AI projects
+- **Community:** Former Teaching Assistant (mentored 50+ students on full-stack development)
+
+---
+
+<div align="center">
+
+### "Pragmatic. Production-ready. Shipping AI systems that solve real problems."
+
+Built by someone who values **shipping** over perfection and **teams** over solo genius.
+
+</div>
