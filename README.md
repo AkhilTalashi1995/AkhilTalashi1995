@@ -1,4 +1,4 @@
-# 👋 Hi, Akhil Talashi
+# 👋 Hi, I'm Akhil Talashi
 **Full-Stack + AI Systems Engineer**
 
 Building production-ready AI systems: LLM applications, RAG pipelines, and intelligent workflows that solve real problems at scale.
