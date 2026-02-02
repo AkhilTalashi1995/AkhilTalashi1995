@@ -75,7 +75,8 @@ Northeastern University, Boston, MA (Sep 2022 – Apr 2024)
 
 ## 🔗 Let's Connect
 
-**Looking for:** Full-time roles in Full-Stack + AI Engineering, LLM-powered products, and intelligent system design.
+Open to full-time **Full-Stack** or **AI Engineering** roles. I’d love to connect if my experience aligns with your team.
+
 
 📧 **Email:** [95akhiltalashi@gmail.com](mailto:95akhiltalashi@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/akhil-talashi](https://www.linkedin.com/in/akhil-talashi/)  
