@@ -80,7 +80,7 @@ Northeastern University, Boston, MA (Sep 2022 – Apr 2024)
 Open to full-time **Full-Stack** or **AI Engineering** roles. I’d love to connect if my experience aligns with your team.
 
 
-📧 **Email:** [95akhiltalashi@gmail.com](mailto:95akhiltalashi@gmail.com)  
+📧 **Email:** [akhiltalashi.dev@gmail.com](mailto:akhiltalashi.dev@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/akhil-talashi](https://www.linkedin.com/in/akhil-talashi/)  
 🌐 **Portfolio:** [akhiltalashi.dev](https://www.akhiltalashi.dev/)  
 📅 **Schedule 30-min call:** [calendly.com/95akhiltalashi/30min](https://calendly.com/95akhiltalashi/30min)
