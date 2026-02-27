@@ -5,7 +5,7 @@
 
 Building production-ready AI systems: LLM applications, RAG pipelines, and intelligent workflows that solve real problems at scale.
 
-> 3+ years shipping full-stack systems | 1.5+ years focused on production AI
+> 2+ years shipping full-stack systems | 1.5+ years focused on production AI
 
 ---
 
